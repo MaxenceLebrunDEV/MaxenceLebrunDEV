@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MaxenceLebrunDEV/MaxenceLebrunDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Maxence</h1>  
+<h3 align="center">I'm Programer and System Administrator</h3>  
+  
+  
+- 🔭 I’m currently working in Freelance in [MaxenceDEV](https://maxencedev.fr/)  
+  
+- 👯 I’m looking to collaborate with cool peoples
+
+- 📫 How to reach me: [Discord](https://discords.com/bio/p/maxencedev) & [Twitter](https://twitter.com/maxencedev)
