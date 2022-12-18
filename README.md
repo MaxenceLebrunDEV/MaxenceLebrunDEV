@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm Programer and System Administrator</h3>  
   
   
-- 🔭 I’m currently working in Freelance in [MaxenceDEV](https://maxencedev.fr/)  
+- 🔭 I’m currently working in Freelance [MaxenceDEV](https://maxencedev.fr/)  
   
 - 👯 I’m looking to collaborate with cool peoples
 
