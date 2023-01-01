@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">I'm Programer and System Administrator</h3>  
   
   
-- 🔭 I’m currently working in Freelance [MaxenceDEV](https://maxencedev.fr/)  
+- 🔭 I’m currently on a open source CMS project 
   
 - 👯 I’m looking to collaborate with cool peoples
 
-- 📫 How to reach me: [Discord](https://discords.com/bio/p/maxencedev) & [Twitter](https://twitter.com/maxencedev)
+- 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
