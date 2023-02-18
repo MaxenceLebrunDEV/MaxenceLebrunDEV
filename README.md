@@ -63,7 +63,7 @@ My work environement:
 
 <h5 align="center">
   
-Languages/Framework used
+Languages/Framework used:
 </h5>
 
 <p align="center">
