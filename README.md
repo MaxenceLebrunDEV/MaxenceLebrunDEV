@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 <p align="center">
 _________________________________________________
 
-  
+</p> 
+<p align="center">
 - 🔭 I’m currently working on few Open-Source Project
   
 - 👯 I’m looking to collaborate with cool peoples and meet new people
 
 - 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
-</p>
+
+</p> 
 
 <h5 align="center">
   
