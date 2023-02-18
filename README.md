@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <img src="mdev.svg" width="177" height="18"></a>
+<h1 align="center">Hi 👋, I'm Maxence Lebrun</a>
 </h3></h1>  
 <h3 align="center">I'm Programer and System Administrator</h3>  
+<p align="center">
 _________________________________________________
 
   
@@ -26,9 +27,8 @@ _________________________________________________
 - 👯 I’m looking to collaborate with cool peoples and meet new people
 
 - 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
+</p>
 
-
-<p align="center">
 <h5 align="center">
   
 Tools/Software used:
