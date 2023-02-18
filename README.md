@@ -29,11 +29,6 @@ _________________________________________________
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,bootstrap,cs,cassandra,cloudflare,css,dart,docker,electron,firebase,flutter,gcp,git,nodejs,php,react,swift,,html,idea,java,js" />
-  </a>
-</p>
-
 <h5 align="center">
   
 Tools/Software used:
@@ -52,7 +47,7 @@ My environement:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,idea,grafana" />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,idea,grafana,cloudflare,aws," />
   </a>
 </p>
 
@@ -60,3 +55,8 @@ My environement:
   
 Languages/Framework used
 </h5>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,cs,cassandra,css,dart,electron,firebase,flutter,git,nodejs,php,react,swift,html,java,js" />
+  </a>
+</p>
