@@ -47,7 +47,7 @@ My environement:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,nginx,idea,grafana,cloudflare,aws," />
+    <img src="https://skillicons.dev/icons?i=linux,nginx,idea,grafana,cloudflare,aws,firebase,git,cassandra,mongodb,mysql" />
   </a>
 </p>
 
@@ -57,6 +57,6 @@ Languages/Framework used
 </h5>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,cs,cassandra,css,dart,electron,firebase,flutter,git,nodejs,php,react,swift,html,java,js" />
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,cs,css,dart,electron,flutter,nodejs,php,react,swift,html,java,js" />
   </a>
 </p>
