@@ -18,10 +18,45 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm <img src="mdev.svg" width="177" height="18"></a>
 </h3></h1>  
 <h3 align="center">I'm Programer and System Administrator</h3>  
-  
+_________________________________________________
+
   
 - 🔭 I’m currently working on few Open-Source Project
   
 - 👯 I’m looking to collaborate with cool peoples and meet new people
 
 - 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,bootstrap,cs,cassandra,cloudflare,css,dart,docker,electron,firebase,flutter,gcp,git,nodejs,php,react,swift,,html,idea,java,js" />
+  </a>
+</p>
+
+<h5 align="center">
+  
+Tools/Software used:
+</h5>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,firebase,figma,github,nginx,netlify,ideajs" />
+  </a>
+</p>
+
+<h5 align="center">
+  
+My environement:
+</h5>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,idea,grafana" />
+  </a>
+</p>
+
+<h5 align="center">
+  
+Languages/Framework used
+</h5>
