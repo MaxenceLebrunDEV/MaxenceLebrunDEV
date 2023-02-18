@@ -56,6 +56,7 @@ My environement:
 Languages/Framework used
 </h5>
 
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bootstrap,cs,css,dart,electron,flutter,nodejs,php,react,swift,html,java,js" />
   </a>
