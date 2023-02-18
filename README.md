@@ -31,7 +31,7 @@ _________________________________________________
   
 </p> 
 <p align="center">
- 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
+ 📫 How to reach me: contact@mdev-network.fr & +33767956467
   
 </p> 
   
