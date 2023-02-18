@@ -25,12 +25,16 @@ _________________________________________________
 <p align="center">
 - 🔭 I’m currently working on few Open-Source Project
   
-- 👯 I’m looking to collaborate with cool peoples and meet new people
-
-- 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
-
 </p> 
-
+<p align="center">
+- 👯 I’m looking to collaborate with cool peoples and meet new people
+  
+</p> 
+<p align="center">
+- 📫 How to reach me: [Mail](mail:contact@mdev-network.fr) & [Phone](tel:+33767956467)
+  
+</p> 
+  
 <h5 align="center">
   
 Tools/Software used:
