@@ -52,7 +52,7 @@ Tools/Software used:
 
 <h5 align="center">
   
-My environement:
+My work environement:
 </h5>
 
 <p align="center">
